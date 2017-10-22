@@ -1,0 +1,3 @@
+[submodule "giftgiver"]
+	path = giftgiver
+	url = git@github.com:iamgollum/giftgiver.git
